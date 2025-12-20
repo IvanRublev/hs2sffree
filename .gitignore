@@ -1,0 +1,65 @@
+# .gitignore
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.spec
+*.egg
+*.log
+*.sql
+*.sqlite
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDEs
+.idea/
+*.swp
+*.swo
+*.swn
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+*.sql
+*.sqlite
+
+# Poetry
+/poetry.lock
+
+# Github dependencies
+/deps
+
+# Environment variables
+.env
+
+# Research files
+research
+
+# Otput directory
+output
+
+# Distributives
+dist
+
+# Linkedin post
+li_post
+
+# Video source
+movie

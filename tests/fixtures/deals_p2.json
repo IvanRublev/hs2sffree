@@ -1,0 +1,58 @@
+{
+    "results": [
+        {
+            "id": "398948547808",
+            "properties": {
+                "amount": "31392",
+                "closedate": "2025-09-05T22:00:00Z",
+                "createdate": "2025-08-21T22:00:00Z",
+                "dealname": "Deal-4ae40a8",
+                "dealstage": "closedlost",
+                "dealtype": "newbusiness",
+                "hs_lastmodifieddate": "2025-12-05T12:46:48.653Z",
+                "hs_object_id": "398948547808"
+            },
+            "createdAt": "2025-08-21T22:00:00Z",
+            "updatedAt": "2025-12-05T12:46:48.653Z",
+            "archived": false,
+            "url": "https://app-eu1.hubspot.com/contacts/147328025/record/0-3/398948547808",
+            "associations": {
+                "companies": {
+                    "results": [
+                        {
+                            "id": "326835011778",
+                            "type": "deal_to_company"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "399054466287",
+            "properties": {
+                "amount": "19030",
+                "closedate": null,
+                "createdate": "2025-11-12T23:00:00Z",
+                "dealname": "Deal-1a25fae",
+                "dealstage": "presentationscheduled",
+                "dealtype": "existingbusiness",
+                "hs_lastmodifieddate": "2025-12-05T12:46:48.465Z",
+                "hs_object_id": "399054466287"
+            },
+            "createdAt": "2025-11-12T23:00:00Z",
+            "updatedAt": "2025-12-05T12:46:48.465Z",
+            "archived": false,
+            "url": "https://app-eu1.hubspot.com/contacts/147328025/record/0-3/399054466287",
+            "associations": {
+                "companies": {
+                    "results": [
+                        {
+                            "id": "326835011779",
+                            "type": "deal_to_company"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

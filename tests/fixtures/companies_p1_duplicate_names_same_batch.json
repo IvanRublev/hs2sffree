@@ -1,0 +1,61 @@
+{
+    "results": [
+        {
+            "id": "326789966068",
+            "properties": {
+                "address": "Johann-Rust-Allee 8/1, 20128 Göppingen",
+                "country": "Germany",
+                "createdate": "2025-12-05T12:30:40.087Z",
+                "domain": "ladeck.com",
+                "hs_lastmodifieddate": "2025-12-05T12:31:46.218Z",
+                "hs_object_id": "326789966068",
+                "industry": "FINANCIAL_SERVICES",
+                "name": "Krebs OHG mbH"
+            },
+            "createdAt": "2025-12-05T12:30:40.087Z",
+            "updatedAt": "2025-12-05T12:31:46.218Z",
+            "archived": false,
+            "url": "https://app-eu1.hubspot.com/contacts/147328025/record/0-2/326789966068"
+        },
+        {
+            "id": "326835011778",
+            "properties": {
+                "address": "Neuschäferplatz 49/65, 79995 Rosenheim",
+                "country": "Germany",
+                "createdate": "2025-12-05T12:30:39.992Z",
+                "domain": "langern.de",
+                "hs_lastmodifieddate": "2025-12-05T12:31:46.218Z",
+                "hs_object_id": "326835011778",
+                "industry": "COMMERCIAL_REAL_ESTATE",
+                "name": "Rose Cichorius GmbH"
+            },
+            "createdAt": "2025-12-05T12:30:39.992Z",
+            "updatedAt": "2025-12-05T12:31:46.218Z",
+            "archived": false,
+            "url": "https://app-eu1.hubspot.com/contacts/147328025/record/0-2/326835011778"
+        },
+        {
+            "id": "326835011780",
+            "properties": {
+                "address": "Wilmsstraße 5-1, 35490 Gräfenhainichen",
+                "country": "Germany",
+                "createdate": "2025-12-05T12:30:40.094Z",
+                "domain": "henck.de",
+                "hs_lastmodifieddate": "2025-12-05T12:31:46.062Z",
+                "hs_object_id": "326835011780",
+                "industry": "HOSPITAL_HEALTH_CARE",
+                "name": "Krebs OHG mbH"
+            },
+            "createdAt": "2025-12-05T12:30:40.094Z",
+            "updatedAt": "2025-12-05T12:31:46.062Z",
+            "archived": false,
+            "url": "https://app-eu1.hubspot.com/contacts/147328025/record/0-2/326835011780"
+        }
+    ],
+    "paging": {
+        "next": {
+            "after": "326835011779",
+            "link": "https://api.hubapi.com/crm/objects/v3/companies?limit=3&properties=name%2Cindustry%2Caddress%2Ccountry%2Cdomain&after=326835011779"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "results": [
+        {
+            "id": "398944889066",
+            "properties": {
+                "amount": "13608",
+                "closedate": "2025-10-07T22:00:00Z",
+                "createdate": "2025-09-29T22:00:00Z",
+                "dealname": "Deal-95a21c7",
+                "dealstage": "closedlost",
+                "dealtype": "newbusiness",
+                "hs_lastmodifieddate": "2025-12-05T12:46:47.736Z",
+                "hs_object_id": "398944889066"
+            },
+            "createdAt": "2025-09-29T22:00:00Z",
+            "updatedAt": "2025-12-05T12:46:47.736Z",
+            "archived": false,
+            "url": "https://app-eu1.hubspot.com/contacts/147328025/record/0-3/398944889066",
+            "associations": {
+                "companies": {
+                    "results": [
+                        {
+                            "id": "326789966068",
+                            "type": "deal_to_company"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "paging": {
+        "next": {
+            "after": "398944889067",
+            "link": "https://api.hubapi.com/crm/objects/v3/deals?associations=companies&limit=3&properties=dealname%2Cclosedate%2Cdealstage%2Camount%2Cdealtype&after=398944889067"
+        }
+    }
+}

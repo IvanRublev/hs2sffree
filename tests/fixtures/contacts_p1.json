@@ -1,0 +1,68 @@
+{
+    "results": [
+        {
+            "id": "582043056331",
+            "properties": {
+                "address": "Karl-Josef-Trubin \"Gasse\" 9044, 19357 Helmstedt",
+                "country": "Germany",
+                "createdate": "2025-12-05T12:30:40.023Z",
+                "email": "bstiffel@example.com",
+                "firstname": "Zdravko",
+                "hs_object_id": "582043056331",
+                "jobtitle": "Bäcker",
+                "lastmodifieddate": "2025-12-05T20:03:18.142Z",
+                "lastname": "Speer",
+                "phone": "07890 70268"
+            },
+            "createdAt": "2025-12-05T12:30:40.023Z",
+            "updatedAt": "2025-12-05T20:03:18.142Z",
+            "archived": false,
+            "url": "https://app-eu1.hubspot.com/contacts/147328025/record/0-1/582043056331",
+            "associations": {
+                "companies": {
+                    "results": [
+                        {
+                            "id": "326789966068",
+                            "type": "contact_to_company"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "582043056332",
+            "properties": {
+                "address": "Natali-Jäkel-Platz 2-2, 18545 Diepholz",
+                "country": "Germany",
+                "createdate": "2025-12-05T12:30:40.026Z",
+                "email": "geiselismail@example.com",
+                "firstname": "Cecilia",
+                "hs_object_id": "582043056332",
+                "jobtitle": "Forstwirt",
+                "lastmodifieddate": "2025-12-05T20:07:35.554Z",
+                "lastname": "Dehmel",
+                "phone": "+49(0)5402 038546"
+            },
+            "createdAt": "2025-12-05T12:30:40.026Z",
+            "updatedAt": "2025-12-05T20:07:35.554Z",
+            "archived": false,
+            "url": "https://app-eu1.hubspot.com/contacts/147328025/record/0-1/582043056332",
+            "associations": {
+                "companies": {
+                    "results": [
+                        {
+                            "id": "326789966068",
+                            "type": "contact_to_company"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "paging": {
+        "next": {
+            "after": "582043056333",
+            "link": "https://api.hubapi.com/crm/objects/v3/contacts?associations=companies&limit=3&properties=firstname%2Clastname%2Cemail%2Cphone%2Caddress%2Ccountry%2Cjobtitle&after=582043056333"
+        }
+    }
+}

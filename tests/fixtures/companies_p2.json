@@ -1,0 +1,21 @@
+{
+    "results": [
+        {
+            "id": "326835011779",
+            "properties": {
+                "address": "Wilmsstraße 5-1, 35490 Gräfenhainichen",
+                "country": "Germany",
+                "createdate": "2025-12-05T12:30:40.094Z",
+                "domain": "henck.de",
+                "hs_lastmodifieddate": "2025-12-05T12:31:46.062Z",
+                "hs_object_id": "326835011779",
+                "industry": "HOSPITAL_HEALTH_CARE",
+                "name": "Huhn AG"
+            },
+            "createdAt": "2025-12-05T12:30:40.094Z",
+            "updatedAt": "2025-12-05T12:31:46.062Z",
+            "archived": false,
+            "url": "https://app-eu1.hubspot.com/contacts/147328025/record/0-2/326835011779"
+        }
+    ]
+}

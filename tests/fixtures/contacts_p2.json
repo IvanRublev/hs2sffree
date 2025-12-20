@@ -1,0 +1,62 @@
+{
+    "results": [
+        {
+            "id": "582060166363",
+            "properties": {
+                "address": "Piotr-Nette-Allee 54/20, 16204 Greifswald",
+                "country": "Germany",
+                "createdate": "2025-12-05T12:30:40.025Z",
+                "email": "mweinhold@example.net",
+                "firstname": "Tatjana",
+                "hs_object_id": "582060166363",
+                "jobtitle": "Mechaniker",
+                "lastmodifieddate": "2025-12-05T20:40:01.196Z",
+                "lastname": "Koch",
+                "phone": "+49(0)2285 18288"
+            },
+            "createdAt": "2025-12-05T12:30:40.025Z",
+            "updatedAt": "2025-12-05T20:40:01.196Z",
+            "archived": false,
+            "url": "https://app-eu1.hubspot.com/contacts/147328025/record/0-1/582060166363",
+            "associations": {
+                "companies": {
+                    "results": [
+                        {
+                            "id": "326835011778",
+                            "type": "contact_to_company"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "582060166364",
+            "properties": {
+                "address": "Gießring 50, 18521 Forchheim",
+                "country": "Germany",
+                "createdate": "2025-12-05T12:30:40.079Z",
+                "email": "fatmadoerr@example.com",
+                "firstname": "Patrik",
+                "hs_object_id": "582060166364",
+                "jobtitle": "Bankkaufmann",
+                "lastmodifieddate": "2025-12-05T20:02:05.452Z",
+                "lastname": "Drubin",
+                "phone": "+49 (0) 0316 324984"
+            },
+            "createdAt": "2025-12-05T12:30:40.079Z",
+            "updatedAt": "2025-12-05T20:02:05.452Z",
+            "archived": false,
+            "url": "https://app-eu1.hubspot.com/contacts/147328025/record/0-1/582060166364",
+            "associations": {
+                "companies": {
+                    "results": [
+                        {
+                            "id": "326835011779",
+                            "type": "contact_to_company"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
