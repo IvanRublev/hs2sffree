@@ -92,4 +92,6 @@ Create a legacy private app in your HubSpot account:
 
 ## License
 
+Copyright © 2025 Ivan Rublev
+
 This project is licensed under the **MIT License**.
